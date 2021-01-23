@@ -21,3 +21,10 @@
      Character Name	              What can this character do? 
      There are no NPC’s but there will be a few cars already parked as obstacles.
 
+6.   Draw your imagination of this game. What does this game look like?
+     Draw the game either on your computer or on paper, 
+     Add images of scenes of the game to show each of the playing and non-playing characters at least once - Look at the SIDE image file.
+     
+7. How do you plan to make your game engaging? 
+     My game is engaging as you would get a chance to drive a car at a young age and there will be no one to say no for one to drive. Also, there is no speed limit.
+
